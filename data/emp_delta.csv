@@ -1,0 +1,5 @@
+emp_id,emp_name,dept,salary,last_updated
+1,Alice,Sales,52000,2025-11-11 09:00:00
+2,Bob,Engineering,73000,2025-11-11 09:15:00
+3,Diana,HR,46000,2025-11-11 09:20:00
+
